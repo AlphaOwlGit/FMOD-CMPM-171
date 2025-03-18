@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{9678009e-229d-4a65-9914-f9df5c0fc9ec}">
 		<property name="name">
-			<value>Pick Up</value>
+			<value>Pick Up Shovel</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{ee1a7258-a893-417d-badc-d2f48d2b6919}</destination>
+			<destination>{9ac48b5d-225d-46b7-a5f8-6b71a5c87927}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{8222191b-1ab4-4a52-82cb-02385b5198ec}</destination>
