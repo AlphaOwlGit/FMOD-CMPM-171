@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{6fabf7ac-c462-46c7-accd-81ae3b1ea804}">
+		<property name="assetPath">
+			<value>Trumpet_AB.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>33.010408163265303</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{750268ec-3e63-465b-a167-90d15c637b9a}</destination>
+		</relationship>
+	</object>
+</objects>

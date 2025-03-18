@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{3c106cf6-cc62-48d5-896d-076a4c46e7e8}">
 		<property name="name">
-			<value>Torch</value>
+			<value>Fire</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{25762378-fa01-49a0-aa7d-80e55c0a34ed}</destination>
+			<destination>{ee1a7258-a893-417d-badc-d2f48d2b6919}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{3c38e914-914b-412f-8279-348ba338926b}</destination>
@@ -27,6 +27,9 @@
 		</relationship>
 		<relationship name="timeline">
 			<destination>{9f700f0a-7869-420d-9d41-9948cdeba021}</destination>
+		</relationship>
+		<relationship name="banks">
+			<destination>{5d623c73-0f98-4cf3-a551-75722f3c9c97}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{3c38e914-914b-412f-8279-348ba338926b}">
@@ -50,7 +53,7 @@
 			<destination>{ece77ee4-66a0-49ba-9e3e-b109e094df6b}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{aad4a5ac-922a-48d9-9ea7-93e413bc7d30}</destination>
+			<destination>{098f64d0-7b18-43d8-b781-a5924b482e2f}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{97b0ec1e-14ce-46d8-b962-96ab9bc31ded}" />

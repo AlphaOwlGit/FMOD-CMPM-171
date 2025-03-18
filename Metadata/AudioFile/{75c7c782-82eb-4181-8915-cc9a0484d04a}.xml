@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{75c7c782-82eb-4181-8915-cc9a0484d04a}">
+		<property name="assetPath">
+			<value>beach-ambiance-16328.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>224.376</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{750268ec-3e63-465b-a167-90d15c637b9a}</destination>
+		</relationship>
+	</object>
+</objects>
