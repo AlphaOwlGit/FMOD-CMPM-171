@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{27948f60-3ccc-4383-9235-3af02300c8cf}">
+		<property name="name">
+			<value>CONTEXT Waterfall</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d300e691-dc6e-41c9-ac6d-1d855fb76a79}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{7430d902-23b0-4223-bc0b-47993407321f}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{7430d902-23b0-4223-bc0b-47993407321f}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>close</value>
+			<value>far</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
